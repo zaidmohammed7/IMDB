@@ -31,6 +31,6 @@ This program allows users to search for movies or actors using their names or ti
 
 6. To exit the program, select option 3 from the menu.
 
-**Note**: Ensure that the TSV files are correctly formatted and located in the same directory as the executable for successful data retrieval.
+**Note**: Ensure that the TSV files are correctly formatted and located in the same directory as the executable for successful data retrieval (or you may need to change the file paths within the code).
 
 Happy Searching!
